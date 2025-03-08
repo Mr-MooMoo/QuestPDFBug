@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestPDFBug", "QuestPDFBug\QuestPDFBug.csproj", "{EEDA89F3-347F-4D84-A2C9-E02C8060CEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDA89F3-347F-4D84-A2C9-E02C8060CEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDA89F3-347F-4D84-A2C9-E02C8060CEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDA89F3-347F-4D84-A2C9-E02C8060CEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDA89F3-347F-4D84-A2C9-E02C8060CEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
