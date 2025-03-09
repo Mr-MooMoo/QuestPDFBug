@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnadGOXBTfY=",
+  "success": true,
+  "projectFilePath": "S:\\research\\QuestPDFBug\\QuestPDFBug\\QuestPDFBug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mail\\.nuget\\packages\\questpdf\\2025.1.5\\questpdf.2025.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
